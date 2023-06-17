@@ -22,3 +22,5 @@ Key Steps Involved:
 8.Ongoing Monitoring and Maintenance: Continuously monitor the model's performance and update it as needed. Over time, the model may require retraining with new data to adapt to changing spam patterns and maintain its accuracy.
 
 By developing an accurate SMS spam detection model, this project contributes to improving user experience, preventing unwanted messages, and enhancing the overall security of SMS communication channels.
+
+![Alt Text](Sms spam model.png)
