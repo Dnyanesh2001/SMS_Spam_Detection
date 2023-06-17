@@ -23,4 +23,4 @@ Key Steps Involved:
 
 By developing an accurate SMS spam detection model, this project contributes to improving user experience, preventing unwanted messages, and enhancing the overall security of SMS communication channels.
 
-![SMS Spam Model](Sms spam model_1.png)
+![Alt Text](Sms spam model.png)
